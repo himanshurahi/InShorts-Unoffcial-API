@@ -16,4 +16,8 @@ hatke<br>
 science<br>
 automobile<br>
 
-#Usage
+# Usage
+Make a get request to get all news<br>
+`localhost:3001/news/all`<br>
+To get news of particular category<br>
+`localhost:3001/news/category/category_name`
